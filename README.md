@@ -6,4 +6,5 @@ Github for &lt;3
 ```java
 int i = 0;
 String melo = "Mélodie";
+const javascript = 'trop cool Java c'est comme JavaScript';
 ```
