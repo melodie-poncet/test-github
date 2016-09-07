@@ -5,4 +5,5 @@ Github for &lt;3
 
 ```java
 int i = 0;
+String melo = "Mélodie";
 ```
